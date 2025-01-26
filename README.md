@@ -14,7 +14,7 @@ For now, I'll be focusing on Python, with potential additions of C++ and Fortran
 
 <!-- - [Astronomy Lab Tools](https://github.com/username/astronomy-lab-tools) 🌌
 - [Personal Utility Scripts](https://github.com/username/personal-utility-scripts) 🔧 -->
-- [Learning Python](https://github.com/AstroTeo99/learning_python)
+- [Learning Python](https://github.com/AstroTeo99/learning-python)
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
