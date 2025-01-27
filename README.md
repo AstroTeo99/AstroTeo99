@@ -26,7 +26,7 @@ For now, I'll be focusing on Python, with potential additions of C++ and Fortran
 ## Contact Me
 
 - Email (unofficial): [astroteo16@gmail.com](mailto:astroteo16@gmail.com)
-- LinkedIn: [Matteo Carta](www.linkedin.com/in/astroteo)
+- LinkedIn: [Matteo Carta](https://www.linkedin.com/in/astroteo/)
 
 ## Beyond the Code 🎯
 
