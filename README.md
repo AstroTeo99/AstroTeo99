@@ -32,8 +32,6 @@ For now, I'll be focusing on Python, with potential additions of C++ and Fortran
 
 In my free time, I love photography, especially astrophotography with my Newtonian 150/750 telescope paired with a Nikon D7100.  
 You can check out some of my photos [here](#). <sub><sup><span style="color: gray; opacity: 0.7;">(Work in Progress: Photos will be added soon!)</span></sup></sub>
-
-I'm also a fan of watching anime and TV series, and enjoy gaming on my PC or PlayStation.
 <!--
 **AstroTeo99/AstroTeo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
